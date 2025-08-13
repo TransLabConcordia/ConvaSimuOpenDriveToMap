@@ -79,5 +79,3 @@ Notes
 Make sure the OpenDRIVE asset is properly recognized in the Content Browser before placing the actor.
 
 Keep all references and licenses for the third-party OpenDRIVE plugin and esmini RoadManager intact in your project/documentation. Do not copy their code without preserving license headers.
-
-
