@@ -52,6 +52,10 @@ In your header, confirm this line exists:
 
 (Do not modify the third-party plugin files; just include the header.)
 
+<img width="1364" height="807" alt="5" src="https://github.com/user-attachments/assets/5e354839-feb8-4944-971f-02fecf2f29a5" />
+
+
+
 Build the project
 
 Compile from Unreal Editor (Tools → Refresh Visual Studio Project if needed, then Build) or build from your IDE.
