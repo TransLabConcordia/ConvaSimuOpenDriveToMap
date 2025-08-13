@@ -52,8 +52,6 @@ In your header, confirm this line exists:
 
 (Do not modify the third-party plugin files; just include the header.)
 
-<img width="1364" height="807" alt="5" src="https://github.com/user-attachments/assets/5e354839-feb8-4944-971f-02fecf2f29a5" />
-
 
 
 Build the project
@@ -67,6 +65,10 @@ In the Content Browser, drag & drop SimpleDataExtractionActor into your level.
 The actor will read the imported .xodr asset (via the plugin) and generate the road network (splines/meshes) in the scene.
 
 Edit lane materials (optional)
+
+
+<img width="1364" height="807" alt="5" src="https://github.com/user-attachments/assets/5e354839-feb8-4944-971f-02fecf2f29a5" />
+
 
 Select the actor in the level.
 
